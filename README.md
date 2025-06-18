@@ -3,3 +3,6 @@
 ## توجه: این کانفیگ برای سیستم عامل macOS هستش. 
 
 ## راهنمای راه‌اندازی Kill Switch از این [لینک](https://github.com/AbbasHoseini/killswitch/blob/main/macOS-KillSwitch-PersianGuide.md).
+
+## راهنمای انگلیسی راه‌اندازی Kill Switch از این [لینک](https://github.com/AbbasHoseini/killswitch/blob/main/macOS-KillSwitch-EnglishGuide.md).
+
