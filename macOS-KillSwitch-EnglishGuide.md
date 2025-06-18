@@ -114,7 +114,3 @@ To remove it permanently, delete the anchor lines from `/etc/pf.conf` and remove
 - Ensure the VPN server IP is correct.
 - Correctly identify your VPN interface (`utunX`).
 - This Kill Switch only controls outgoing traffic at the system level.
-
-## 📄 License
-
-This project is released under the MIT License.
